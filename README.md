@@ -4,11 +4,6 @@ A responsive, lightweight personal blog landing page built with custom HTML and 
 
 ---
 
-## 🚀 Live Demo
-
-You can view the live, running website here:
-👉 **[View Live Blog Project](https://abigailnwizu-ux.github.io/just_blog/)**
-
 ---
 
 ## 🛠 Tech Stack
